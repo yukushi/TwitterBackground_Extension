@@ -1,0 +1,50 @@
+html{
+    background-color:#E0ECF8;
+}
+body {
+    background-color: #36ADF1;
+    color: azure;
+    width: 600px;
+    height: 500px;
+    margin: 10px;
+    padding: 10px;
+    min-width: 357px;
+    overflow-x: hidden;
+}
+
+.option{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#resetMsg{
+    background-color:#ffcc99;
+    font-size: 20px;
+    color:red;
+}
+
+.msg{
+    background-color:#ffcc99;
+    color:red;
+    font-weight: bold;
+    font-size:20px;
+    text-align:center;
+}
+
+.borderline{
+    border: solid 1.5px;
+    height: 220px;
+}
+
+img#mediaImg{
+    margin: 10px;
+    width: auto;
+    max-height: 150px;    
+}
+
+
+footer{
+    margin-bottom: 20px;
+    position: fixed;
+    bottom: 0;
+}
